@@ -1,8 +1,24 @@
 body{
-background-color: black;
+background-color: #212121;
 text-align: center;
+color: white;
 }
 img{
-width: 50%;
 margin-top: 10%;
 }
+h1{
+margin-top: 2%;
+font-family: 'Overpass', sans-serif;
+font-weight: 700;
+font-size: 5em;
+}
+span{
+font-family: 'Overpass', sans-serif;
+font-weight: 400;
+font-size: 2em;
+}
+small{
+font-family: 'Overpass Mono', monospace;
+font-size: 1em;
+}
+
